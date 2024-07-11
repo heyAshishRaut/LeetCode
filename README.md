@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/heyAshishRaut/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/heyAshishRaut/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/heyAshishRaut/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/heyAshishRaut/LeetCode/tree/master/0242-valid-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/heyAshishRaut/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/heyAshishRaut/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/heyAshishRaut/LeetCode/tree/master/0242-valid-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/heyAshishRaut/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/heyAshishRaut/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/heyAshishRaut/LeetCode/tree/master/0242-valid-anagram) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/heyAshishRaut/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 ## Two Pointers
 |  |
