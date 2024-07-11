@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/heyAshishRaut/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2048-build-array-from-permutation](https://github.com/heyAshishRaut/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/heyAshishRaut/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/heyAshishRaut/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/heyAshishRaut/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [3194-find-words-containing-character](https://github.com/heyAshishRaut/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/heyAshishRaut/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/heyAshishRaut/LeetCode/tree/master/0242-valid-anagram) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/heyAshishRaut/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/heyAshishRaut/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/heyAshishRaut/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/heyAshishRaut/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/heyAshishRaut/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/heyAshishRaut/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Matrix
 |  |
 | ------- |
