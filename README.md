@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/heyAshishRaut/LeetCode/tree/master/1013-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/heyAshishRaut/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 <!---LeetCode Topics End-->
