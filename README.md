@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/heyAshishRaut/LeetCode/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/heyAshishRaut/LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/heyAshishRaut/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2491-smallest-even-multiple](https://github.com/heyAshishRaut/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Array
 |  |
 | ------- |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/heyAshishRaut/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/heyAshishRaut/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/heyAshishRaut/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/heyAshishRaut/LeetCode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
