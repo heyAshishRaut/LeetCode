@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/heyAshishRaut/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/heyAshishRaut/LeetCode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/heyAshishRaut/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2058-concatenation-of-array](https://github.com/heyAshishRaut/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/heyAshishRaut/LeetCode/tree/master/2491-smallest-even-multiple) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/heyAshishRaut/LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
