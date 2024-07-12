@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/heyAshishRaut/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/heyAshishRaut/LeetCode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/heyAshishRaut/LeetCode/tree/master/0782-jewels-and-stones) |
+| [2128-reverse-prefix-of-word](https://github.com/heyAshishRaut/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/heyAshishRaut/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/heyAshishRaut/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/heyAshishRaut/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/heyAshishRaut/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/heyAshishRaut/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/heyAshishRaut/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [2128-reverse-prefix-of-word](https://github.com/heyAshishRaut/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Number Theory
 |  |
 | ------- |
