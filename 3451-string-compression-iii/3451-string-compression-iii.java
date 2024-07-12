@@ -15,9 +15,9 @@ class Solution {
         }
         if(!s.isEmpty()){
             ans = ans + s.size() + s.peek();
-            // while(!s.isEmpty()){
-            //     s.pop();
-            // }
+            while(!s.isEmpty()){
+                s.pop();
+            }
         }
         return ans;
     }
