@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/heyAshishRaut/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/heyAshishRaut/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/heyAshishRaut/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3451-string-compression-iii](https://github.com/heyAshishRaut/LeetCode/tree/master/3451-string-compression-iii) |
 ## Two Pointers
 |  |
 | ------- |
