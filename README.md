@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/heyAshishRaut/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/heyAshishRaut/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/heyAshishRaut/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/heyAshishRaut/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/heyAshishRaut/LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/heyAshishRaut/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/heyAshishRaut/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/heyAshishRaut/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/heyAshishRaut/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/heyAshishRaut/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/heyAshishRaut/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/heyAshishRaut/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
