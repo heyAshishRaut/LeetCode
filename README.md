@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/heyAshishRaut/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/heyAshishRaut/LeetCode/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/heyAshishRaut/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/heyAshishRaut/LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/heyAshishRaut/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2491-smallest-even-multiple](https://github.com/heyAshishRaut/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/heyAshishRaut/LeetCode/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/heyAshishRaut/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/heyAshishRaut/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/heyAshishRaut/LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/heyAshishRaut/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/heyAshishRaut/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/heyAshishRaut/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/heyAshishRaut/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/heyAshishRaut/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/heyAshishRaut/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/heyAshishRaut/LeetCode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/heyAshishRaut/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/heyAshishRaut/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/heyAshishRaut/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/heyAshishRaut/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/heyAshishRaut/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/heyAshishRaut/LeetCode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/heyAshishRaut/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/heyAshishRaut/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/heyAshishRaut/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/heyAshishRaut/LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/heyAshishRaut/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/heyAshishRaut/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Stack
@@ -132,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/heyAshishRaut/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/heyAshishRaut/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
