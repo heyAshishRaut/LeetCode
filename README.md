@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/heyAshishRaut/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/heyAshishRaut/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/heyAshishRaut/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/heyAshishRaut/LeetCode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/heyAshishRaut/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/heyAshishRaut/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/heyAshishRaut/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/heyAshishRaut/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/heyAshishRaut/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/heyAshishRaut/LeetCode/tree/master/0389-find-the-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/heyAshishRaut/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/heyAshishRaut/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/heyAshishRaut/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/heyAshishRaut/LeetCode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/heyAshishRaut/LeetCode/tree/master/0782-jewels-and-stones) |
 | [2128-reverse-prefix-of-word](https://github.com/heyAshishRaut/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/heyAshishRaut/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -148,4 +151,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/heyAshishRaut/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/heyAshishRaut/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/heyAshishRaut/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/heyAshishRaut/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
